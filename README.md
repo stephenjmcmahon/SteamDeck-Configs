@@ -11,10 +11,10 @@ Day 1 Steam Deck personal configs
 
 ## Install
 
-* From /home/deck
-* nano .bashrc and add content below existing SteamOS defaults
+From /home/deck:
+* nano .bashrc (and add content below existing SteamOS defaults)
 * mkdir .bashrc.d/
-* nano .bashrc.d/aliases.sh and copy over all lines
+* nano .bashrc.d/aliases.sh (and copy over all lines)
 * chmod +600 .bashrc.d/aliases.sh
 
 ### Outstanding Bugs
