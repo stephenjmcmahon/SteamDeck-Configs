@@ -4,19 +4,20 @@ Day 1 Steam Deck personal configs
 
 ## Description
 
-* SSH Status Echo: Instantly know the SSH status upon connection.
-* SSH Alias Convenience: Enjoy convenient SSH alias commands accessible through 'ssh_help'.
-* Enhanced File Navigation: Simplify file navigation with aliases like 'll' for 'ls -AhF' and 'lll' for 'ls -lAhF'.
+* SSH Status Echo: Instantly know the SSH status upon connection
+* SSH Alias Convenience: Enjoy convenient SSH alias commands accessible through 'ssh_help'
+* Enhanced File Navigation: Simplify file navigation with aliases like 'll' for 'ls -AhF' and 'lll' for 'ls -lAhF'
 
 ## Install
 
 To set up these configurations on your Steam Deck:
 
 Navigate to /home/deck.
-* Open .bashrc using your preferred text editor (e.g., nano) and add the provided content below the existing SteamOS defaults.
-* Create a directory named .bashrc.d/.
-* Copy all lines from aliases.sh into .bashrc.d/aliases.sh.
-* Ensure proper permissions by running chmod +600 .bashrc.d/aliases.sh.h
+* Open '.bashrc' using your preferred text editor (e.g., nano) and add the provided '.bashrc' content from this repo below the existing SteamOS defaults
+* Create a directory named '.bashrc.d/'
+* Open '.bashrc.d/aliases.sh' (a new file) using your preferred text editor (e.g., nano)
+* Copy all lines from aliases.sh from this repo into your newly created '.bashrc.d/aliases.sh'
+* Ensure proper permissions by running 'chmod +600 .bashrc.d/aliases.sh'
 
 ## Current Status and Bugs
 
