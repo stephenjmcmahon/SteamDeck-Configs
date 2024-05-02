@@ -7,7 +7,7 @@ Day 1 Steam Deck personal configs
 * Echoes SSH status on connect
 * SSH alias commands available via ssh_help
 * 'll' alias for 'ls -AhF'
-* 'lll' alies for 'ls -lAhF'
+* 'lll' alias for 'ls -lAhF'
 
 ## Install
 
